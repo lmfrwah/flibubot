@@ -4,7 +4,7 @@
 
 ### ▢ `ᎿᏬᎷᎯᏕ ᏕᎻᎨᏝᏰᎨ`
 
-[![Click Aquí](https://img.shields.io/badge/Adminbot-flibubot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+212645106267?text=Hello_My_Friend)
+[![Click Aquí](https://img.shields.io/badge/Admin_bot-flibubot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+212645106267?text=Hello_My_Friend)
 
 [![Click Aquí](https://img.shields.io/badge/channel-flibubot-25D366?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/@flibu_gaming)
 
