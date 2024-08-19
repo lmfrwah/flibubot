@@ -6,7 +6,9 @@
 
 [![Click Aquí](https://img.shields.io/badge/Canal-flibubot-25D366?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/@flibu_gaming)
 
-[![Click Aquí](https://img.shields.io/badge/Grupo-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LdFI6GQ716X0y1EmgqhUVA)
+[![Click Aquí](https://img.shields.io/badge/Grupo-flibubot-25D366?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dj_flibu_remix)
+
+[![Click Aquí](https://img.shields.io/badge/Grupo-flibubot-25D366?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dj_flibu_remix)
 
 <!-- > [ ℹ️ ] En los grupos de soporte no se permiten bots.
 
