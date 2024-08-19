@@ -2,7 +2,7 @@
 
 ------------------
 
-### `▢ 𝗧𝗨𝗠𝗔𝗦 𝗦𝗛𝗜𝗟𝗕𝗜
+### ▢ ᎿᏬᎷᎯᏕ ᏕᎻᎨᏝᏰᎨ
 
 [![Click Aquí](https://img.shields.io/badge/channel-flibubot-25D366?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/@flibu_gaming)
 
