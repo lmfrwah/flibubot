@@ -4,11 +4,11 @@
 
 ### `▢ 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 - 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝙂𝙧𝙤𝙪𝙥`
 
-[![Click Aquí](https://img.shields.io/badge/Canal-flibubot-25D366?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/@flibu_gaming)
+[![Click Aquí](https://img.shields.io/badge/𝘾𝙝𝙖𝙣𝙣𝙚𝙡-flibubot-25D366?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/@flibu_gaming)
 
-[![Click Aquí](https://img.shields.io/badge/Grupo-flibubot-25D366?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dj_flibu_remix)
+[![Click Aquí](https://img.shields.io/badge/𝘾𝙝𝙖𝙣𝙣𝙚𝙡-flibubot-25D366?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dj_flibu_remix)
 
-[![Click Aquí](https://img.shields.io/badge/Grupo-flibubot-25D366?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dj_flibu_remix)
+[![Click Aquí](https://img.shields.io/badge/𝘾𝙝𝙖𝙣𝙣𝙚𝙡-flibubot-25D366?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dj_flibu_remix)
 
 <!-- > [ ℹ️ ] En los grupos de soporte no se permiten bots.
 
