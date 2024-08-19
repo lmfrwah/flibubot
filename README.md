@@ -2,7 +2,7 @@
 
 ------------------
 
-### `▢ 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 - 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝙂𝙧𝙤𝙪𝙥`
+### `▢ 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 - 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝙂𝙧𝙤𝙪𝙥 - Youtube Channel - Instagram Channel - Tiktok Channel`
 
 [![Click Aquí](https://img.shields.io/badge/channel-flibubot-25D366?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/@flibu_gaming)
 
