@@ -10,6 +10,10 @@
 
 [![Click Aquí](https://img.shields.io/badge/channel-flibubot-25D366?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dj_flibu_remix)
 
+[![Click Aquí](https://img.shields.io/badge/channel-flibubot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VafPIGU2975ALj4uYl1g)
+
+[![Click Aquí](https://img.shields.io/badge/group-flibubot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LdFI6GQ716X0y1EmgqhUVA)
+
 <!-- > [ ℹ️ ] En los grupos de soporte no se permiten bots.
 
 ### `▢ BOTS OFICIALES (INACTIVOS)`
